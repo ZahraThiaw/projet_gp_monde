@@ -1,0 +1,253 @@
+{
+    "cargo": [
+        {
+            "distance": 835.35,
+            "num": 1,
+            "poidsMax": 51,
+            "nbProduitsMax": null,
+            "lieuDepart": "Paris",
+            "lieuArrivee": "Irlande",
+            "dateDepart": "2024-07-29",
+            "dateArrivee": "2024-07-30",
+            "etat": "ferm\u00e9",
+            "etape": "arriv\u00e9",
+            "produits": [
+                {
+                    "_libelle": "Alan Herrera",
+                    "_poids": 86,
+                    "_statut": "en cours",
+                    "_client": {
+                        "name": "Althea Conway",
+                        "username": "Nihil labore cupidit",
+                        "address": "Aute aspernatur lore",
+                        "phone": "+1 (536) 877-3559",
+                        "email": "seqobas@mailinator.com"
+                    },
+                    "_destinataire": {
+                        "name": "Mason Tyler",
+                        "username": "Eaque ut excepturi s",
+                        "address": "Laboris doloribus ad",
+                        "phone": "+1 (453) 882-2367",
+                        "email": "liqopejoq@mailinator.com"
+                    },
+                    "code": 114042365171,
+                    "type": "Incassable"
+                },
+                {
+                    "_libelle": "Branden Mcpherson",
+                    "_poids": 35,
+                    "_statut": "en cours",
+                    "_client": {
+                        "name": "Gavin Riddle",
+                        "username": "Cupiditate minima re",
+                        "address": "Enim fugit eu autem",
+                        "phone": "+1 (326) 763-5475",
+                        "email": "fojonamidu@mailinator.com"
+                    },
+                    "_destinataire": {
+                        "name": "Elmo Hernandez",
+                        "username": "Dicta dolorem proide",
+                        "address": "Ipsam veritatis reic",
+                        "phone": "+1 (688) 325-1858",
+                        "email": "tohiliqa@mailinator.com"
+                    },
+                    "code": 675779374678,
+                    "type": "Alimentaire"
+                }
+            ],
+            "type": "Aerienne"
+        },
+        {
+            "distance": 5689.03,
+            "num": 2,
+            "poidsMax": 620,
+            "nbProduitsMax": null,
+            "lieuDepart": "Scugog",
+            "lieuArrivee": "Sert\u00e3",
+            "dateDepart": "2024-06-20",
+            "dateArrivee": "2024-06-21",
+            "etat": "ferm\u00e9",
+            "etape": "en cours",
+            "produits": [
+                {
+                    "_libelle": "Upton Nixon",
+                    "_poids": 97,
+                    "_statut": "en cours",
+                    "_client": {
+                        "name": "Ivan Pope",
+                        "username": "Aliquid reprehenderi",
+                        "address": "Consectetur esse com",
+                        "phone": "+1 (915) 616-7371",
+                        "email": "wixegemi@mailinator.com"
+                    },
+                    "_destinataire": {
+                        "name": "Noelle Mercado",
+                        "username": "Fugiat cillum proide",
+                        "address": "Et voluptatem nostru",
+                        "phone": "+1 (185) 545-5944",
+                        "email": "pamo@mailinator.com"
+                    },
+                    "code": 930015727811,
+                    "type": "Fragile"
+                },
+                {
+                    "_libelle": "Shelley Mejia",
+                    "_poids": 83,
+                    "_statut": "en cours",
+                    "_client": {
+                        "name": "Lillith Lee",
+                        "username": "Tempora recusandae",
+                        "address": "Ut nihil placeat no",
+                        "phone": "+1 (296) 611-9067",
+                        "email": "zisexuzywu@mailinator.com"
+                    },
+                    "_destinataire": {
+                        "name": "Ivan Pope",
+                        "username": "Dolorum quisquam pra",
+                        "address": "Fuga Delectus haru",
+                        "phone": "+1 (815) 666-6806",
+                        "email": "vexicapa@mailinator.com"
+                    },
+                    "code": 250441671797,
+                    "type": "Alimentaire"
+                },
+                {
+                    "_libelle": "Lara Hinton",
+                    "_poids": 440,
+                    "_statut": "en cours",
+                    "_client": {
+                        "name": "Mason Tyler",
+                        "username": "Quos a id voluptatem",
+                        "address": "Explicabo Voluptate",
+                        "phone": "+1 (423) 886-6258",
+                        "email": "nypozacin@mailinator.com"
+                    },
+                    "code": 942264124374,
+                    "type": "Incassable"
+                }
+            ],
+            "type": "Aerienne"
+        },
+        {
+            "distance": 8394.47,
+            "num": 3,
+            "poidsMax": null,
+            "nbProduitsMax": 5,
+            "lieuDepart": "Porta",
+            "lieuArrivee": "Colombie",
+            "dateDepart": "2024-05-31",
+            "dateArrivee": "2024-06-01",
+            "etat": "ouvert",
+            "etape": "en attente",
+            "produits": [],
+            "type": "Maritime"
+        },
+        {
+            "distance": 36.96,
+            "num": 4,
+            "poidsMax": 73,
+            "nbProduitsMax": null,
+            "lieuDepart": "Paris",
+            "lieuArrivee": "Montry",
+            "dateDepart": "2024-10-03",
+            "dateArrivee": "2024-10-04",
+            "etat": "ouvert",
+            "etape": "en attente",
+            "produits": [
+                {
+                    "_libelle": "Ishmael Atkinson",
+                    "_poids": 29,
+                    "_statut": "en attente",
+                    "_client": {
+                        "name": "Niang",
+                        "username": "Fatou",
+                        "address": "Id dolore animi et ",
+                        "phone": "+1 (116) 832-6543",
+                        "email": "bynoci@mailinator.com"
+                    },
+                    "code": 718322637853,
+                    "type": "Alimentaire"
+                },
+                {
+                    "_libelle": "Marvin Mueller",
+                    "_poids": 30,
+                    "_statut": "en attente",
+                    "_client": {
+                        "name": "Upton Dixon",
+                        "username": "Esse aute ipsum ape",
+                        "address": "Aut ut sed molestiae",
+                        "phone": "+1 (776) 893-5019",
+                        "email": "buxulicepu@mailinator.com"
+                    },
+                    "_destinataire": {
+                        "name": "Diop",
+                        "username": "Aissata",
+                        "address": "Ut sed qui anim hic ",
+                        "phone": "+1 (317) 311-8655",
+                        "email": "zukisafeve@mailinator.com"
+                    },
+                    "code": 654191360639,
+                    "type": "Alimentaire"
+                }
+            ],
+            "type": "Routiere"
+        },
+        {
+            "distance": 28.41,
+            "num": 5,
+            "poidsMax": 150,
+            "nbProduitsMax": null,
+            "lieuDepart": "New York",
+            "lieuArrivee": "Dakar",
+            "dateDepart": "2024-06-25",
+            "dateArrivee": "2024-06-26",
+            "etat": "ferm\u00e9",
+            "etape": "arriv\u00e9",
+            "produits": [
+                {
+                    "_libelle": "C\u00e9r\u00e9ales",
+                    "_poids": 55,
+                    "_statut": "perdu",
+                    "_client": {
+                        "name": "Thiam",
+                        "username": "Serigne Mbaye",
+                        "address": "New York",
+                        "phone": "+221775752135",
+                        "email": "serignembayet@gmail.com"
+                    },
+                    "_destinataire": {
+                        "name": "Thiaw",
+                        "username": "Fatimata",
+                        "address": "Dakar",
+                        "phone": "+221779163204",
+                        "email": "fatimatathiaw6@gmail.com"
+                    },
+                    "code": 755298116131,
+                    "type": "Alimentaire"
+                },
+                {
+                    "_libelle": "Kieran Dalton",
+                    "_poids": 90,
+                    "_statut": "recuper\u00e9",
+                    "_client": {
+                        "name": "Thiaw",
+                        "username": "Fatimata",
+                        "address": "New York",
+                        "phone": "+221779163204",
+                        "email": "fatimatathiaw6@gmail.com"
+                    },
+                    "_destinataire": {
+                        "name": "Gueye",
+                        "username": "Mamadou",
+                        "address": "Dakar",
+                        "phone": "+221783116655",
+                        "email": "mamadougueye@groupeisi.com"
+                    },
+                    "code": 575935597216,
+                    "type": "Incassable"
+                }
+            ],
+            "type": "Aerienne"
+        }
+    ]
+}
